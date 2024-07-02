@@ -1,4 +1,4 @@
 #支持私库
-kukudebai/jdk:15.0.2
+mongo:latest
 #支持指定架构
---platform=linux/amd64 kukudebai/jdk15
+--platform=linux/amd64
