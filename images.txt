@@ -1,4 +1,7 @@
 #支持私库
-bitnami/minio:latest
+rabbitmq:latest
+nacos/nacos-server:latest
+bladex/sentinel-dashboard:1.8.7
+
 #支持指定架构
 #--platform=linux/amd64 mongo:latest
