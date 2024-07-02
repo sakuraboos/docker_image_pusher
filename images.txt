@@ -1,7 +1,5 @@
 #支持私库
-rabbitmq:latest
-nacos/nacos-server:latest
-bladex/sentinel-dashboard:1.8.7
+nacos/nacos-server:v2.0.4
 
 #支持指定架构
 #--platform=linux/amd64 mongo:latest
