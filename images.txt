@@ -1,4 +1,4 @@
 #支持私库
-redis:latest
+redis:6.0.10
 #支持指定架构
 #--platform=linux/amd64 mongo:latest
