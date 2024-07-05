@@ -1,4 +1,4 @@
 #支持私库
-linuxserver/resilio-sync
+linuxserver/resilio-sync:144
 #支持指定架构
 #--platform=linux/amd64 mongo:latest
