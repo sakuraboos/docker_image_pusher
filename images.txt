@@ -1,5 +1,4 @@
 #支持私库
-nacos/nacos-server:v2.0.4
-
+linuxserver/resilio-sync
 #支持指定架构
 #--platform=linux/amd64 mongo:latest
