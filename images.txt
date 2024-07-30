@@ -1,5 +1,4 @@
 #支持私库
-mysql:5.7.17
-mysql:8.0.31
+rabbitmq:3.12.0-management
 #支持指定架构
 #--platform=linux/amd64 mongo:latest
