@@ -1,4 +1,4 @@
 #支持私库
-rabbitmq:3.12.0-management
+nacos/nacos-server:v2.2.2
 #支持指定架构
 #--platform=linux/amd64 mongo:latest
